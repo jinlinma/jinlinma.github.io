@@ -16,13 +16,13 @@ sidebar:
     phone: 86 951 2067316
 
     languages:
-      title: Languages1
+      title: Research
       info:
-        - idiom: Chinese112
-          level: Native112
+        - idiom: Computer Vision
+          level: 
 
-        - idiom: English
-          level: Professional
+        - idiom: Medical Image Processing
+          level: 
 
 career-profile:
     title: Career Profile
