@@ -130,9 +130,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The Tangut character database (TCD) and an enhanced database (TCD-E) covering 6077 classes.
+      TCD contains 6,077 types of Tangut characters. Of which including 2,110 classes of characters
+      from ancient documents, totaling 94,459 characters;
+      6,077 classes of characters from modern printed editions, totaling 30,165 characters.
+      On the basic of TCD, TCD-E adds 483,076 enhanced data, each class contains 100 characters.
     assignments:
       - title: Tangut Dataset
         link: "#"
