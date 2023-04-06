@@ -176,9 +176,6 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "IRCM-Caps: An X-ray image detection method for COVID-19"
         link: "https://doi.org/10.1111/crj.13599"
