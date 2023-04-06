@@ -36,10 +36,10 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 experiences:
-    title: Experiences
+    title: Research Projects
     info:
-      - role: Associate Professor
-        time: 2016 - Present
+      - role: 多通道卷积神经网络的模型检索方法研究
+        time: 2022.1 - 2023.12
         company: School of Computer Science and Engineering, North Minzu University
 
       - role: Associate Professor & Senior Engineer
@@ -54,7 +54,7 @@ experiences:
         time: 2004 - 2009
         company: Library, North Minzu University
 projects:
-    title: Projects
+    title: Datasets
     intro: >
     assignments:
       - title: Tangut Dataset
