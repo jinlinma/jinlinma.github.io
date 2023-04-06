@@ -180,21 +180,6 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        
       - title: "IRCM-Caps: An X-ray image detection method for COVID-19"
         link: "https://doi.org/10.1111/crj.13599"
         authors: Shuo Qiu, Jinlin Ma, Ziping Ma
@@ -204,6 +189,111 @@ publications:
         link: "https://doi.org/10.13700/j.bh.1001-5965.2022.0931"
         authors: Ma Jinlin, Liu Yuhao, Ma Ziping, Guo Zhaowei, LÜ Xin
         conference: "Journal of Beijing University of Aeronautics and Astronautics, Early View, 2023"
+        
+      - title: "HSKDLR: A lightweight lip recognition method based on homogeneous self-knowledge distillation"
+        link: "https://doi.org/10.3778/j.issn.1673-9418.2208032"
+        authors: Ma Jinlin, Liu Yuhao, Ma Ziping, Gong Yuanwen, Zhu Yanbin
+        conference: "Journal of Frontiers of Computer Science and Technology, Early View, 2023"        
+        
+      - title: "Tangut character image generation based on cycle-consistent adversarial networks"
+        link: "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221892"
+        authors: Yunrui Cao, Jinlin Ma, Chaohua Hao, Qi Yan
+        conference: "Journal of Intelligent & Fuzzy Systems, vol. 44, no. 4, pp. 6341-6358, 2023"
+
+      - title: "Multiscale adaptive fusion network based algorithm for liver tumor detection"
+        link: "https://doi.org/10.11834/jig.220423"
+        authors: Ma Jinlin, Ouyang Ke, Ma Ziping, Mao Kaiji, Chen Yong
+        conference: "Journal of Image and Graphics，vol. 28, no. 1, pp. 0260-0276, 2023"
+
+      - title: "ConA-FPN Based Algorithm for Liver Tumor Detection"
+        link: "https://doi.org/10.3778/j.issn.1002-8331.2107-0235"
+        authors: Ma Jinlin, Mao Kaiji, MaA Ziping, Deng Yuanyuan, Ouyang Ke, Chen Yong
+        conference: "Computer Engineering and Applications, vol. 59, no. 2, pp. 161-169, 2023"
+        
+      - title: End-to-end Tangut character database building and recognition method
+        link: "https://doi.org/10.1049/ipr2.12471"
+        authors: Jinlin Ma, Yunrui Cao,  Ziping Ma, Lin Wei, Chaohua Hao
+        conference: "IET Image Processing, vol. 16, no. 8, pp. 2087–2100, 2022"
+        
+      - title: "Review of Deep Learning Diagnostic Methods for COVID-19"
+        link: "https://doi.org/10.3778/j.issn.1002-8331.2109-0110"
+        authors: Ma Jinlin, Qiu Shuo, Ma Ziping, Chen Yong
+        conference: "Computer Engineering and Applications, vol. 58, no. 12, pp. 51-65, 2022"
+
+      - title: "Research Progress of Lightweight Neural Network Convolution Design"
+        link: "https://doi.org/10.3778/j.issn.1673-9418.2107056"
+        authors: Ma Jinlin, Zhang Yu, Ma Ziping, Mao Kaiji
+        conference: "Journal of Frontiers of Computer Science and Technology, vol. 16, no. 3, pp. 512-528, 2022"
+        
+      - title: "A text-based multi-span network for reading comprehension"
+        link: "https://doi.org/10.3233/JIFS-200581"
+        authors: Deguang Chen, Ziping Ma, Lin Wei, Yanbin Zhu, Jinlin Ma, Yuanwen Gong, Jie Zhou
+        conference: "Journal of Intelligent & Fuzzy Systems, vol. 41, no. 6, pp. 5807–5819, 2021"
+        
+      - title: "Review of Deep Learning Methods for Lip Recognition"
+        link: "https://doi.org/10.3778/j.issn.1002-8331.2109-0196"
+        authors: Ma Jinlin, Zhu Yanbin, Ma Ziping, Gong Yuanwen, Chen Deguang, Liu Yuhao
+        conference: "Computer Engineering and Applications, vol. 57, no. 24, pp. 61-73, 2021"
+        
+      - title: "Image classification of protein super secondary structure based on residual network"
+        link: "https://doi.org/10.16208/j.issn1000-7024.2021.10.028"
+        authors: Ma Jinlin, Shi Li, Ma Ziping
+        conference: "Computer Engineering and Design, vol. 42, no. 10, pp.2910-2916, 2021"
+        
+      - title: "A Liver Segmentation Method Based on the Fusion of VNet and WGAN"
+        link: "https://doi.org/10.1155/2021/5536903"
+        authors: Jinlin Ma, Yuanyuan Deng, Ziping Ma, Kaiji Mao, Yong Chen
+        conference: "Computational and Mathematical Methods in Medicine,vol. 2021, Article ID 5536903, 2021"
+
+      - title: "Classification of Protein Secondary Structure Based on Grey Wolf Optimizer"
+        link: "https://doi.org/10.13417/j.gab.040.000018"
+        authors: Ma Jinlin, Shi Li, Ma Ziping
+        conference: "Genomics and Applied Biology, vol. 40, no. 1, pp. 18-27, 2021"
+        
+      - title: Review of Extracting Methods for Lip Visual Features
+        link: "https://doi.org/10.3778/j.issn.1673-9418.2106105"
+        authors: Ma Jinlin, Gong Yuanwen, Ma Ziping, Chen Deguang, Zhu Yanbin, Liu Yuhao
+        conference: "Journal of Frontiers of Computer Science and Technology, vol. 15, no. 12, pp. 2256-2275, 2021"
+        
+      - title: Review of Pre-training Techniques for Natural Language Processing
+        link: "https://doi.org/10.3778/j.issn.1673-9418.2012109"
+        authors: Chen Deguang, Ma Jinlin, Ma Ziping, Zhou Jie
+        conference: "Journal of Frontiers of Computer Science and Technology, vol. 15, no. 8, pp. 1359-1389, 2021"
+        
+      - title: "MTQA: Text-Based Multitype Question and Answer Reading Comprehension Model"
+        link: "https://doi.org/10.1155/2021/8810366"
+        authors: Deguang Chen, Ziping Ma, Lin Wei, Jinlin Ma, Yanbin Zhu
+        conference: "Computational Intelligence and Neuroscience, vol. 2021, Article ID 8810366, 2021"
+        
+      - title: Review of deep learning segmentation methods for CT images of liver tumors
+        link: "https://doi.org/10.11834/jig.200234"
+        authors: Ma Jinlin, Deng Yuanyuan, Ma Ziping
+        conference: "Journal of Image and Graphics, vol. 25, no. 10, pp. 2024-2046, 2020"
+        
+      - title: A CAPTCHA Identification Method Optimized by Petri Net
+        link: "https://doi.org/10.19678/j.issn.1000-3428.0055178"
+        authors: Ma Jinlin, Chen Deguang, Ma Ziping, Wei Lin
+        conference: "Computer Engineering, vol. 46, no. 7, pp. 277-285, 2020"
+ 
+      - title: 3D Radon Transform for Shape Retrieval Using Bag-of-Visual-Features
+        link: "https://doi.org/10.34028/iajit/17/4/5"
+        authors: Jinlin Ma, Ziping Ma
+        conference: "The International Arab Journal of Information Technology, Vol. 17, No. 4, pp. 471-479, 2020"
+        
+      - title: Pulmonary nodule segmentation method based on deep transfer learning
+        link: "https://doi.org/10.11772/j.issn.1001-9081.2019112012"
+        authors: Ma Jinlin, Wei Meng, Ma Ziping
+        conference: "Journal of Computer Applications, vol. 40, no. 7, pp. 2117-2125, 2020"
+        
+      - title: Lip Corpus Review
+        link: "https://doi.org/10.3778/j.issn.1002-8331.1908-0494"
+        authors: Ma Jinlin, Chen Deguang, Guo Beibei, Zhou Jie
+        conference: "Computer Engineering and Applications, vol. 55, no. 22, pp. 1-13, 2019"
+        
+      - title: A 3D polar-radius-moment invariant as a shape circularity measure
+        link: "https://doi.org/10.1016/j.neucom.2016.09.124"
+        authors: Ziping Ma, Jinlin Ma, Bin Xiao, Ke Lu
+        conference: "Neurocomputing, vol. 259, pp. 140-145, 2017"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
