@@ -194,6 +194,16 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+        
+      - title: IRCM-Caps: An X-ray image detection method for COVID-19
+        link: "https://doi.org/10.1111/crj.13599"
+        authors: Shuo Qiu, Jinlin Ma, Ziping Ma
+        conference: "The Clinical Respiratory Journal, Early View, 2023"        
+        
+      - title: Lightweight Lip Recognition Method Based on Decoupling Homogeneous Self knowledge Distillation
+        link: "https://doi.org/10.13700/j.bh.1001-5965.2022.0931"
+        authors: Ma Jinlin, Liu Yuhao, Ma Ziping, Guo Zhaowei, LÜ Xin
+        conference: "Journal of Beijing University of Aeronautics and Astronautics, Early View, 2023"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
