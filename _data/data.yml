@@ -19,9 +19,12 @@ sidebar:
       title: Research
       info:
         - idiom: Computer Vision
-          level: 
 
         - idiom: Medical Image Processing
+        
+        - idiom: Lip Reading
+        
+        - idiom: Tangut Relic Digitalization
 
 career-profile:
     title: Career Profile
