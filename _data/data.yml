@@ -40,27 +40,27 @@ experiences:
     info:
       - role: 面向肝脏肿瘤检测的小样本学习方法研究
         time: 2021.1 - 2023.12
-        company: 北方民族大学重点科研项目，No：2021KJCX09，主持
+        company: 北方民族大学重点科研项目，No：2021KJCX09，Project Director
         
       - role: 多通道卷积神经网络的模型检索方法研究
         time: 2022.1 - 2023.12
-        company: 宁夏自然科学基金，No：2022AAC03268，参与
+        company: Natural Science Foundation of Ningxia，No：2022AAC03268，Project participant
 
       - role: 基于深度学习的肝脏肿瘤分割方法研究
         time: 2020.6 - 2022.6
-        company: 宁夏自然科学基金，No：2020AAC03215，主持
+        company: Natural Science Foundation of Ningxia，No：2020AAC03215，Project Director
 
-      - role: “计算机视觉与虚拟现实”创新团队
+      - role: Innovation Team of Computer Vision and Virtual Reality
         time: 2019 - 2022
-        company: 北方民族大学，主持
+        company: North Minzu University，Project Director
         
-      - role: 基于深度学习的非刚性三维模型多模态检索研究
+      - role: Research on Multimodal Retrieval of Non-rigid 3D Models Based on Deep Learning
         time: 2018.1 - 2021.12
-        company: 国家自然科学基金，No：61762003，参与
+        company: National Science Foundation Project，No：61762003，Project participant
         
       - role: 西夏文物三维数字化与虚拟复原方法研究
         time: 2015.1 - 2018.12
-        company: 国家自然科学基金，No：61462002，参与
+        company: National Science Foundation Projec，No：61462002，Project participant
         
 projects:
     title: Datasets
