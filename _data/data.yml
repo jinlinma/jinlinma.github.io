@@ -43,24 +43,24 @@ experiences:
         company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
         
       - role: Research on Model Retrieval Methods for Multichannel Convolutional Neural Networks
-        time: 2022.1 - 2023.12
-        company: Natural Science Foundation of Ningxia，No：2022AAC03268，Project participant
+        time: 
+        company: Natural Science Foundation of Ningxia, 2022.1 - 2023.12，No：2022AAC03268，Project participant
 
       - role: Research on liver tumor segmentation method based on deep learning
-        time: 2020.6 - 2022.6
-        company: Natural Science Foundation of Ningxia，No：2020AAC03215，Project Director
+        time: 
+        company: Natural Science Foundation of Ningxia, 2020.6 - 2022.6，No：2020AAC03215，Project Director
 
       - role: Innovation Team of Computer Vision and Virtual Reality
-        time: 2019 - 2022
-        company: North Minzu University，Project Director
+        time: 
+        company: North Minzu University, 2019 - 2022, Project Director
         
       - role: Research on Multimodal Retrieval of Non-rigid 3D Models Based on Deep Learning
-        time: 2018.1 - 2021.12
-        company: National Science Foundation Project，No：61762003，Project participant
+        time: 
+        company: National Science Foundation Project, 2018.1 - 2021.12, No：61762003，Project participant
         
       - role: Research on 3D Digitalization and Virtual Restoration Methods of Tangut Cultural Relics
-        time: 2015.1 - 2018.12
-        company: National Science Foundation Projec，No：61462002，Project participant
+        time: 
+        company: National Science Foundation Projec, 2015.1 - 2018.12, No：61462002, Project participant
         
 projects:
     title: Datasets
