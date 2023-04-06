@@ -38,15 +38,15 @@ career-profile:
 experiences:
     title: Research Projects
     info:
-      - role: 面向肝脏肿瘤检测的小样本学习方法研究
+      - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 2021.1 - 2023.12
         company: 北方民族大学重点科研项目，No：2021KJCX09，Project Director
         
-      - role: 多通道卷积神经网络的模型检索方法研究
+      - role: Research on Model Retrieval Methods for Multichannel Convolutional Neural Networks
         time: 2022.1 - 2023.12
         company: Natural Science Foundation of Ningxia，No：2022AAC03268，Project participant
 
-      - role: 基于深度学习的肝脏肿瘤分割方法研究
+      - role: Research on liver tumor segmentation method based on deep learning
         time: 2020.6 - 2022.6
         company: Natural Science Foundation of Ningxia，No：2020AAC03215，Project Director
 
@@ -58,7 +58,7 @@ experiences:
         time: 2018.1 - 2021.12
         company: National Science Foundation Project，No：61762003，Project participant
         
-      - role: 西夏文物三维数字化与虚拟复原方法研究
+      - role: Research on 3D Digitalization and Virtual Restoration Methods of Tangut Cultural Relics
         time: 2015.1 - 2018.12
         company: National Science Foundation Projec，No：61462002，Project participant
         
