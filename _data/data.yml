@@ -64,36 +64,20 @@ experiences:
       - role: Research on 3D Industrial Part Inspection Methods
         time: 
         company: Scientific Research Projects of Ningxia Higher Education Institution, 2016.5 - 2018.5, No：NGY2016144, Project Director
-
 eduexperiences:
     title: Educational Research Projects
     info:
-      - role: Research on Small Sample Learning Method for Liver Tumor Detection
+      - role: Reform of Ideological and Political Education in the Course of Operating System
         time: 
-        company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
+        company: Ningxia University Ideological and Political Work Quality Improvement Project，2019.6 - 2021.6, No：NXSZ20190227，Project Director
         
-      - role: Research on Small Sample Learning Method for Liver Tumor Detection
+      - role: Exploration and Practice of the Construction of Computer Majors in the Context of New Engineering
         time: 
-        company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
+        company: Major research project on education and teaching at North Minzu University，2018.6 - 2021.6, No：2018ZHJY01，Project Director
         
-      - role: Research on Small Sample Learning Method for Liver Tumor Detection
+      - role: Research on the Implementation Strategy of Engineering Education Certification for Network Engineering Majors
         time: 
-        company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
-oss:
-    title: Educational Research Projects
-    intro: >
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        company: The sub project of the "Network Engineering Advantage and Characteristic Specialty" of the "13th Five Year Plan" key professional construction project in Ningxia Hui Autonomous Region，2018.6 - 2020.6, Project Director
 projects:
     title: Datasets
     intro: >
