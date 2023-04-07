@@ -79,7 +79,21 @@ eduexperiences:
       - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 
         company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
+oss:
+    title: Educational Research Projects
+    intro: >
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 projects:
     title: Datasets
     intro: >
