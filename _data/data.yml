@@ -64,6 +64,7 @@ experiences:
       - role: Research on 3D Industrial Part Inspection Methods
         time: 
         company: Scientific Research Projects of Ningxia Higher Education Institution, 2016.5 - 2018.5, No：NGY2016144, Project Director
+
 eduexperiences:
     title: Educational Research Projects
     info:
@@ -78,6 +79,7 @@ eduexperiences:
       - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 
         company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
+
 projects:
     title: Datasets
     intro: >
