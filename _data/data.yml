@@ -18,13 +18,13 @@ sidebar:
     languages:
       title: Research
       info:
-        - idiom: Computer Vision
+        - idiom: 1. Computer Vision
 
-        - idiom: Medical Image Processing
+        - idiom: 2. Medical Image Processing
         
-        - idiom: Lip Reading
+        - idiom: 3. Lip Reading
         
-        - idiom: Tangut Relic Digitalization
+        - idiom: 4. Tangut Relic Digitalization
 
 career-profile:
     title: Introduce
