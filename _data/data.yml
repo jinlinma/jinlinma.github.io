@@ -6,7 +6,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: Ture # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
+    # 
     name: Jinlin Ma
     tagline: CV Farmer
     avatar: my.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
