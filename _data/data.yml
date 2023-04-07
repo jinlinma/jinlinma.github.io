@@ -31,7 +31,7 @@ career-profile:
     summary: |
       Jinlin Ma, PhD, Associate Professor, Senior Engineer, Master's Supervisor.
 experiences:
-    title: Research Projects
+    title: Scientific Research Projects
     info:
       - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 
@@ -67,13 +67,21 @@ experiences:
 eduexperiences:
     title: Educational Research Projects
     info:
+      - role: Research and Practice on Ideological and Political Education in the Course of Algorithm Design and Analysis
+        time: 
+        company: North Minzu University Curriculum Ideological and Political Reform Project，2022.6 - 2024.6, No：XJSZ202217, Project Director
+        
       - role: Reform of Ideological and Political Education in the Course of Operating System
         time: 
-        company: Ningxia University Ideological and Political Work Quality Improvement Project，2019.6 - 2021.6, No：NXSZ20190227，Project Director
+        company: Ningxia University Ideological and Political Work Quality Improvement Project，2019.6 - 2021.6, No：NXSZ20190227, Project Director
         
       - role: Exploration and Practice of the Construction of Computer Majors in the Context of New Engineering
         time: 
-        company: Major research project on education and teaching at North Minzu University，2018.6 - 2021.6, No：2018ZHJY01，Project Director
+        company: Major research project on education and teaching at North Minzu University，2018.6 - 2021.6, No：2018ZHJY01, Project Director
+        
+      - role: Research and Practice on Ideological and Political Education in the Course of Algorithm Design and Analysis
+        time: 
+        company: China University Computer Education MOOC Alliance Online and Offline Hybrid Teaching Model Reform Project，2018.6 - 2019.6, Project Director
         
       - role: Research on the Implementation Strategy of Engineering Education Certification for Network Engineering Majors
         time: 
