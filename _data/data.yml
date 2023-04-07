@@ -29,7 +29,43 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Jinlin Ma，PhD, Associate Professor, Master's Supervisor.
+      Jinlin Ma, PhD, Associate Professor, Senior Engineer, Master's Supervisor.
+education:
+    title: Education
+    info:
+      - degree: PhD in Computer Science
+        university: Northwest University
+        time: 2011 - 2015
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: MSc in Computer Science
+        university: Ningxia University
+        time: 2003 - 2006
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+       - degree: BSc in Electronic Science and Technology
+        university: North Minzu University
+        time: 1995 - 1999
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Research Projects
     info:
