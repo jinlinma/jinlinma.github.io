@@ -115,7 +115,6 @@ oss:
     intro: >
     contributions:
       - title: Operating System
-        link: "#"
         tagline: "Undergraduate Course"
 
       - title: Algorithm Design and Analysis
