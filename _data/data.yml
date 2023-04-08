@@ -118,11 +118,9 @@ oss:
         tagline: "Undergraduate Course"
 
       - title: Algorithm Design and Analysis
-        link: "#"
         tagline: "Graduate Course & Undergraduate Course"
 
       - title: Digital Image Processing
-        link: "#"
         tagline: "Graduate Course"
 publications:
     title: Publications
