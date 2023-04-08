@@ -110,6 +110,21 @@ projects:
       6,077 classes of characters from modern printed editions, totaling 30,165 characters.
       On the basic of TCD, TCD-E adds 483,076 enhanced data, each class contains 100 characters."
 
+oss:
+    title: Teaching Courses
+    intro: >
+    contributions:
+      - title: Operating System
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Algorithm Design and Analysis
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: digital image processing
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 publications:
     title: Publications
     intro: |
