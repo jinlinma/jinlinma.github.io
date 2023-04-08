@@ -114,6 +114,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Tangut character image generation based on cycle-consistent adversarial networks"
+        link: "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221892"
+        authors: Yunrui Cao, Jinlin Ma, Chaohua Hao, Qi Yan
+        conference: "Journal of Intelligent & Fuzzy Systems, vol. 44, no. 4, pp. 6341-6358, 2023"
+        
       - title: "IRCM-Caps: An X-ray image detection method for COVID-19"
         link: "https://doi.org/10.1111/crj.13599"
         authors: Shuo Qiu, Jinlin Ma, Ziping Ma
@@ -129,11 +134,6 @@ publications:
         authors: Ma Jinlin, Liu Yuhao, Ma Ziping, Gong Yuanwen, Zhu Yanbin
         conference: "Journal of Frontiers of Computer Science and Technology, Early View, 2023 (in Chinese)"        
         
-      - title: "Tangut character image generation based on cycle-consistent adversarial networks"
-        link: "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221892"
-        authors: Yunrui Cao, Jinlin Ma, Chaohua Hao, Qi Yan
-        conference: "Journal of Intelligent & Fuzzy Systems, vol. 44, no. 4, pp. 6341-6358, 2023"
-
       - title: "Multiscale adaptive fusion network based algorithm for liver tumor detection"
         link: "https://doi.org/10.11834/jig.220423"
         authors: Ma Jinlin, Ouyang Ke, Ma Ziping, Mao Kaiji, Chen Yong
