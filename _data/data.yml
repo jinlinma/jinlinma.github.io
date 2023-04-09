@@ -35,13 +35,13 @@ education:
     info:
       - degree: PhD in Computer Science
         university: Northwest University
-        time: 2011.9 - 2015.7
+        time: 2011 - 2015
       - degree: MSc in Computer Science
         university: Ningxia University
-        time: 2006.1 - 2008.12
+        time: 2006 - 2008
       - degree: BSc in Electronic Science and Technology
         university: North Minzu University
-        time: 1995.9 - 1999.7
+        time: 1995 - 1999
 experiences:
     title: Scientific Research Projects
     info:
