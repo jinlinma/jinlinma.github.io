@@ -29,7 +29,7 @@ sidebar:
 career-profile:
     title: Introduce
     summary: |
-      Jinlin Ma, PhD (DR.ING.), Associate Professor, Senior Engineer, Master's Supervisor.
+      Jinlin Ma, PhD (DR.ING.), Professor, Senior Engineer, Doctor's Supervisor.
 education:
     title: Education
     info:
@@ -45,6 +45,10 @@ education:
 experiences:
     title: Scientific Research Projects
     info:
+      - role: Research on the identification method of small-sized liver tumors using multi-scale representation and cross modal fusion
+        time: 
+        company: Natural Science Foundation of Ningxia, 2025.5 - 2028.5, No：2025AAC0200007，Project Director
+        
       - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 
         company: Key scientific research projects of North Minzu University，2021.1 - 2023.12, No：2021KJCX09，Project Director
