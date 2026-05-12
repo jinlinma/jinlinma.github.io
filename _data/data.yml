@@ -45,9 +45,13 @@ education:
 experiences:
     title: Scientific Research Projects
     info:
+      - role: Research on identification of small-sized liver tumors using multi-scale and cross modal collaborative perception
+        time: 
+        company: National Natural Science Foundation of China, 2025.1 - 2028.12, No：62462001，Project Director
+        
       - role: Research on the identification method of small-sized liver tumors using multi-scale representation and cross modal fusion
         time: 
-        company: Natural Science Foundation of Ningxia (Key Project), 2025.5 - 2028.5, No：2025AAC0200007，Project Director
+        company: Natural Science Foundation of Ningxia (Key Project), 2025.5 - 2028.5, No：2025AAC020007，Project Director
         
       - role: Research on Small Sample Learning Method for Liver Tumor Detection
         time: 
